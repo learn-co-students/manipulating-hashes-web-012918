@@ -7,7 +7,12 @@ def second_challenge
   }
 
   #code your solution here!
-
-  
-
+# arr = []
+#   groceries.each do |key, value|
+#   	value.each do |item|
+#   		arr.push(item)
+#   	end
+#   end
+# arr
+groceries.values.flatten
 end
